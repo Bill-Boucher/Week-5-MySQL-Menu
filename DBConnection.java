@@ -10,7 +10,7 @@ public class DBConnection {
 
 	private final static String URL = "jdbc:mysql://localhost:3306/motorcycles";
 	private final static String USERNAME = "root";
-	private final static String PASSWORD = "rufus.188";
+	private final static String PASSWORD = "password";
 	private static Connection connection;
 	private static DBConnection instance;
 	
